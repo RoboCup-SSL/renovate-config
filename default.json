@@ -24,11 +24,7 @@
       "automerge": true
     },
     {
-      "matchCategories": ["ci"],
-      "automerge": true
-    },
-    {
-      "matchManagers": ["docker-compose"],
+      "matchCategories": ["ci", "docker"],
       "automerge": true
     }
   ]
